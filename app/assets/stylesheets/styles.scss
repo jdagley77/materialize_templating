@@ -1,0 +1,45 @@
+/*nav {
+	background-color: grey;
+}*/
+
+nav ul a {
+	font-size: 2rem !important;
+	padding-top: 23px !important;
+	padding-left: 200px !important;
+	position: absolute !important;
+    color: #fff !important;
+    font-size: 2.1rem !important;
+    white-space: nowrap !important;
+}  
+
+nav .brand-logo {
+	font-size: 2rem !important;
+	padding-left: 50px !important;
+	/*padding-top: 20px !important;*/
+	position: absolute !important;
+    color: #fff !important;
+    font-size: 2.1rem !important;
+    white-space: nowrap !important;
+}
+
+h1 {
+	font-family: "roboto" !important;
+	color: #0049B2 !important;
+}
+
+h5 {
+	font-family: "lato" !important;
+}
+
+.btn-large {
+	background-color: #0069FF !important;
+	color: white !important;
+}
+
+footer {
+	background-color: #0069FF !important;
+}
+
+body {
+	/*background-color: #cfd8dc !important;*/
+}
